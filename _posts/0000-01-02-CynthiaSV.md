@@ -1,6 +1,4 @@
----
-layout: slide
-title: "Welcome to our second slide!"
----
-Your text
-Use the left arrow to go back!
+MAybe this is how
+I edit the file?
+Did github bot smile 
+I'll leave now
